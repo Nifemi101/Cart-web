@@ -90,7 +90,7 @@ function displayCartItems() {
           <img src="${item.Image}">
         </div>
         <div class="item-details">
-          <h3>${item.name}</h3>
+          <h3 class= "name">${item.name}</h3>
           <p class="category">${item.category}</p>
           <p class="price">$${item.price.toFixed(2)}</p>
         </div>
