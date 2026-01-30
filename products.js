@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 1,
-    name: "Waffle with berries",
+    name: "Waffle with banana",
     category: "Waffles",
     price: 6.99,
     Image: "img/waffles.jpg",
@@ -43,7 +43,7 @@ export const products = [
   },
   {
     id: 7,
-    name: "Burger",
+    name: " Beef Burger",
     category: "burgers",
     price: 4.50,
     Image: "img/burger.jpg",
