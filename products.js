@@ -50,7 +50,7 @@ export const products = [
   },
   {
     id: 8,
-    name: " vanilla Ice Cream",
+    name: " Ice Cream",
     category: "Ice-Cream",
     price: 4.50,
     Image: "img/icecream.jpg",
