@@ -175,7 +175,6 @@ function removeFromCart(event) {
   displayCartItems();
 }
 
-
 function updateCartSummary(cart) {
   const subtotalElement = document.getElementById("subtotal");
   const taxElement = document.getElementById("tax");
