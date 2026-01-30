@@ -87,7 +87,7 @@ function displayCartItems() {
     const cartItemHtml = `
       <div class="cart-item">
         <div class="item-image">
-          <img src="${item.Image}" alt="${item.name}">
+          <img src="${item.Image}">
         </div>
         <div class="item-details">
           <h3>${item.name}</h3>
